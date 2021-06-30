@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/sunaif_adkat'),
+        InlineKeyboardButton('Developers', url='https://t.me/sunaif_adkar'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/sunaif-adkar')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/sunaif_adkar')
